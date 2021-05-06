@@ -153,7 +153,7 @@ Use following command to build the EFI.
 使用下述指令编译 EFI：
 
 ```bash
-git https://github.com/TokiharaSay/OpenCore-OMEN-by-HP-3-Hackintosh
+git clone https://github.com/TokiharaSay/OpenCore-OMEN-by-HP-3-Hackintosh
 cd OpenCore-OMEN-by-HP-3-Hackintosh
 chmod +x **/*.sh
 ./build.sh
