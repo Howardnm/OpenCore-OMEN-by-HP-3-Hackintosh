@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/TokiharaSay/Pic/Hackintosh/OMEN-by-HP-3%20Hackintosh.jpg" width="350px">
+<img src="https://cdn.jsdelivr.net/gh/TokiharaSay/Pic/Hackintosh/OMEN-by-HP-3 Hackintosh.png" width="350px">
 </div>
 
 <h1 align="center">OMEN-by-HP-3 Hackintosh</h1>
