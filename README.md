@@ -218,4 +218,4 @@ Donating to this project is OPTIONAL. But feel free to buy me a coffee if you ap
 **OMEN-by-HP-3 Hackintosh** © [TokiharaSay](https://github.com/TokiharaSay), Released under the [GPL-3.0](./LICENSE) License.<br>
 Authored and maintained by TokiharaSaywith help from contributors ([list](https://github.com/TokiharaSay/OpenCore-OMEN-by-HP-3-Hackintosh/graphs/contributors)).
 
->[Blog](https://www.runebalot.cn/) · GitHub [@TokiharaSay](https://github.com/TokiharaSay) · Telegram Channel [@TokiharaSayChannel](https://t.me/TokiharaSay) · Twitter [@TokiharaSay](https://twitter.com/TokiharaSay) 
+>[Blog](https://blog.runebalot.cn/) · GitHub [@TokiharaSay](https://github.com/TokiharaSay) · Telegram Channel [@TokiharaSayChannel](https://t.me/TokiharaSay) · Twitter [@TokiharaSay](https://twitter.com/TokiharaSay) 
